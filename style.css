@@ -1,0 +1,30 @@
+h1
+{
+color : orange;
+}
+body
+{
+background-color:black;
+}
+.exist
+{
+text-align:center;
+color:#fff;
+}
+.login
+{
+position: relative;
+width: 50%;
+height: 30%;
+background-color: gray;
+}
+h2
+{
+text-align: center;
+color: orange;
+}
+p
+{
+color: white;
+text-align: center;
+}
