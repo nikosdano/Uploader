@@ -12,7 +12,7 @@ session_start();
 			}
 		?>
 		<div class = "login">
-			<h2>Upload files as: <?php echo $_SESSION['username']; ?> </h2>
+			<h2>Uploading files as: <?php echo $_SESSION['username']; ?> </h2>
 				<p> Here is your upload area. Upload your files and browse them whenever you want. </p>
                                 	<div class ="upload">
 						<form action="upload.php" method="post"
